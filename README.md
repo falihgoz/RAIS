@@ -46,3 +46,7 @@ Metadata for train, validation, and evaluation splits can be found in `dataset/`
   issn      = {{2958-1796}},
 }
 ```
+
+# Acknowledgments
+
+This project includes code adapted from [Avalanche](https://github.com/ContinualAI/avalanche).

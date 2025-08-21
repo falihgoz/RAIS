@@ -35,4 +35,14 @@ Metadata for train, validation, and evaluation splits can be found in `dataset/`
 
 # Cite this work
 
-TBD
+```bibtex
+@inproceedings{febrinanto25_interspeech,
+  title     = {{Rehearsal with Auxiliary-Informed Sampling for Audio Deepfake Detection}},
+  author    = {{Falih Gozi Febrinanto and Kristen Moore and Chandra Thapa and Jiangang Ma and Vidya Saikrishna and Feng Xia}},
+  year      = {{2025}},
+  booktitle = {{Interspeech 2025}},
+  pages     = {{5358--5362}},
+  doi       = {{10.21437/Interspeech.2025-2298}},
+  issn      = {{2958-1796}},
+}
+```

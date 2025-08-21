@@ -1,0 +1,6 @@
+batch_size: 64
+dropout: 0.1
+start_lr: 0.00001
+max_audio_len: 64000
+weight_decay: 0.0001
+aux_lb_size: 80
